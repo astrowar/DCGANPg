@@ -1,0 +1,2 @@
+# DCGANPg
+Progressive DCGAN
